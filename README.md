@@ -1,16 +1,16 @@
-Layoffs Data Cleaning
+# Layoffs Data Cleaning
 
 This project includes a SQL script to clean and preprocess the Layoffs dataset. It focuses on improving data quality for further analysis and visualization.
 
 ---
 
-## 📂 File Included
+## File Included
 
 - `layoffs_data_cleaning.sql`: SQL script to clean the dataset
 
 ---
 
-## 🛠️ What the Script Does
+## What the Script Does
 
 The script performs the following cleaning steps:
 

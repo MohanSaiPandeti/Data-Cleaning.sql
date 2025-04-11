@@ -45,11 +45,12 @@ This script is useful as a **preprocessing step** before:
 ##  Author
 
 **Mohan Sai**  
-Passionate about data analysis and SQL workflows.
+Passionate about Data Analysis
+
+> Connect with me on [LinkedIn](https://www.linkedin.com/in/mohansaipandeti) |
 
 ---
 
 ##  Note
-
 Feel free to fork or star this repo if you find it useful!
 
